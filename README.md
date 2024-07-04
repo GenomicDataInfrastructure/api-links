@@ -2,3 +2,10 @@
 Links to definitions and documentation for APIs used within GDI
 
 GDI needs to support a diverse range of deployments, and different products from the starter kit maybe replaced. As such there is a need to move from a product defined to API defined infrastructure within GDI. This repo is therefore a place to link to the API specifications, and / or associated standard specifications.
+
+## LifeScience AAI
+
+- [OpenID Connect Core specification](https://openid.net/specs/openid-connect-core-1_0.html)
+- [GA4GH AAI OpenID Connect Profile specification](https://ga4gh.github.io/data-security/aai-openid-connect-profile)
+- [GA4GH Passport specification](https://ga4gh.github.io/data-security/ga4gh-passport)
+- LifeScience AAI Identity Management API [openapi.yml](https://raw.githubusercontent.com/CESNET/perun/main/perun-openapi/openapi.yml) 
