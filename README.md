@@ -9,3 +9,8 @@ GDI needs to support a diverse range of deployments, and different products from
 - [GA4GH AAI OpenID Connect Profile specification](https://ga4gh.github.io/data-security/aai-openid-connect-profile)
 - [GA4GH Passport specification](https://ga4gh.github.io/data-security/ga4gh-passport)
 - LifeScience AAI Identity Management API [openapi.yml](https://raw.githubusercontent.com/CESNET/perun/main/perun-openapi/openapi.yml) 
+
+## Beacon & Beacon Network
+
+- [GA4GH Beacon v2 specification](https://github.com/ga4gh-beacon/beacon-v2)
+- [GA4GH Beacon v2 documentation](https://docs.genomebeacons.org/)
