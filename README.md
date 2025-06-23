@@ -14,3 +14,13 @@ GDI needs to support a diverse range of deployments, and different products from
 
 - [GA4GH Beacon v2 specification](https://github.com/ga4gh-beacon/beacon-v2)
 - [GA4GH Beacon v2 documentation](https://docs.genomebeacons.org/)
+
+## 📦 FAIR Data Point (FDP) 
+
+- [FDP Swagger UI (Live)](https://app.fairdatapoint.org/swagger-ui/index.html)
+- [FDP GitHub (Reference Architecture & API)](https://github.com/FAIRDataTeam/FAIRDataPoint)
+
+## 📊 HealthDCAT & DCAT-AP
+
+- [HealthDCAT-AP Specification](https://healthdcat-ap.github.io)
+- [HealthDCAT SHACL Shapes (GDI Metadata)](https://github.com/GenomicDataInfrastructure/gdi-metadata/tree/main/Formulasation%28shacl%29/core/PiecesShape)
