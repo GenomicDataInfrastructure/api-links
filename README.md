@@ -1,4 +1,4 @@
-# api-links
+# APIs
 Links to definitions and documentation for APIs used within GDI
 
 GDI needs to support a diverse range of deployments, and different products from the starter kit maybe replaced. As such there is a need to move from a product defined to API defined infrastructure within GDI. This repo is therefore a place to link to the API specifications, and / or associated standard specifications.
@@ -14,6 +14,7 @@ GDI needs to support a diverse range of deployments, and different products from
 
 - [GA4GH Beacon v2 specification](https://github.com/ga4gh-beacon/beacon-v2)
 - [GA4GH Beacon v2 documentation](https://docs.genomebeacons.org/)
+- [GDI Beacon v2 guidelines](https://docs.google.com/document/d/1nytWC6QOvaLmoJd0OBOENc52gEXagXzI)
 
 ## 📦 FAIR Data Point (FDP) 
 
