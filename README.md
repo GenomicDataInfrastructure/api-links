@@ -16,12 +16,10 @@ GDI needs to support a diverse range of deployments, and different products from
 - [GA4GH Beacon v2 documentation](https://docs.genomebeacons.org/)
 - [GDI Beacon v2 guidelines](https://docs.google.com/document/d/1nytWC6QOvaLmoJd0OBOENc52gEXagXzI)
 
-## 📦 FAIR Data Point (FDP) 
+## 📦 FAIR Data Point (FDP) and metadata profiles
 
-- [FDP Swagger UI (Live)](https://app.fairdatapoint.org/swagger-ui/index.html)
-- [FDP GitHub (Reference Architecture & API)](https://github.com/FAIRDataTeam/FAIRDataPoint)
-
-## 📊 HealthDCAT & DCAT-AP
-
-- [HealthDCAT-AP Specification](https://healthdcat-ap.github.io)
-- [HealthDCAT SHACL Shapes (GDI Metadata)](https://github.com/GenomicDataInfrastructure/gdi-metadata/tree/main/Formulasation%28shacl%29/core/PiecesShape)
+- Implementations of the FAIR Data Point principle must conform to FDP specification v1.2: https://specs.fairdatapoint.org/fdp-specs-v1.2.html
+- Metadata, whether in a full FDP deployment or provided as a standalone RDF file, must align with the GDI harmonised metadata spreadsheet (leading), and then HealthDCAT-AP 5.0:
+  - GDI harmonised metadata spreadsheet v1.1: https://docs.google.com/spreadsheets/d/1HpznG8yTcs7if0xqNSpZZIGpbEe7_3ZG6_nF1YeJmSA/edit?gid=225294581#gid=225294581
+  - HealthDCAT-AP 5.0: https://healthdataeu.pages.code.europa.eu/healthdcat-ap/releases/release-5/
+- SHACL shapes for validating FDP metadata: https://github.com/GenomicDataInfrastructure/gdi-metadata
